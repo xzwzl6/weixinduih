@@ -1510,41 +1510,41 @@ fieldset[disabled] .radio-custom label {
 .phone-sigle {
     width: 54px;
     height: 36px;
-    background: url(../images/bar/ios-single-4-dark.png) no-repeat;
+    background: url(ios-single-4-dark.png) no-repeat;
     margin-right: 6px;
     text-indent: -9999px
 }
 
 .phone-sigle-v1 {
-    background-image: url(../images/bar/ios-single-1-dark.png)
+    background-image: url(ios-single-1-dark.png)
 }
 
 .phone-sigle-v2 {
-    background-image: url(../images/bar/ios-single-2-dark.png)
+    background-image: url(ios-single-2-dark.png)
 }
 
 .phone-sigle-v3 {
-    background-image: url(../images/bar/ios-single-3-dark.png)
+    background-image: url(ios-single-3-dark.png)
 }
 
 .phone-sigle-v4 {
-    background-image: url(../images/bar/ios-single-4-dark.png)
+    background-image: url(ios-single-4-dark.png)
 }
 
 .phone-wifi {
     width: 63px;
     height: 45px;
-    background: url(../images/bar/ios-wifi-3-dark.png) no-repeat;
+    background: url(ios-wifi-3-dark.png) no-repeat;
     margin-right: 6px;
     text-indent: -9999px
 }
 
 .phone-wifi-s1 {
-    background-image: url(../images/bar/ios-wifi-1-dark.png)
+    background-image: url(ios-wifi-1-dark.png)
 }
 
 .phone-wifi-s2 {
-    background-image: url(../images/bar/ios-wifi-2-dark.png)
+    background-image: url(ios-wifi-2-dark.png)
 }
 
 .phone-wifi-v2 {
@@ -1559,7 +1559,7 @@ fieldset[disabled] .radio-custom label {
 .phone-battery {
     width: 75px;
     height: 36px;
-    background: url(../images/bar/ios-battery-dark.png) no-repeat;
+    background: url(ios-battery-dark.png) no-repeat;
     position: relative;
     padding: 7px;
     padding-right: 16px
@@ -1568,7 +1568,7 @@ fieldset[disabled] .radio-custom label {
 .phone-battery.phone-battery-charge i {
     width: 18px;
     height: 36px;
-    background: url(../images/bar/ios-battery-charge-dark.png) no-repeat;
+    background: url(ios-battery-charge-dark.png) no-repeat;
     position: absolute;
     left: 50%;
     margin-left: -9px;
@@ -2082,7 +2082,7 @@ fieldset[disabled] .radio-custom label {
 }
 
 .wechat-dialog-right .wechat-dialog-voice i {
-    background-image: url(../images/wechat-voice-icon2.png);
+    background-image: url(wechat-voice-icon2.png);
     margin-left: 30px;
     margin-right: 16px
 }
